@@ -1,0 +1,3823 @@
+{
+    "SatcomScnDef": {
+        "simDuration": 30.0,
+        "SateDef": [
+            {
+                "satName": "GPS BIIF-1",
+                "satID": 30152,
+                "PosX": -5439.480502,
+                "PosY": -3109.157248,
+                "PosZ": 1891.593933,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-2",
+                "satID": 30254,
+                "PosX": 666.676356,
+                "PosY": -579.64816,
+                "PosZ": 2409.283668,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": false,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-3",
+                "satID": 30356,
+                "PosX": -1107.050656,
+                "PosY": -1539.325715,
+                "PosZ": 1929.554703,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": false,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-4",
+                "satID": 30458,
+                "PosX": -5962.697263,
+                "PosY": -6511.982491,
+                "PosZ": 2653.527175,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-5",
+                "satID": 30560,
+                "PosX": -8350.014543,
+                "PosY": -7905.799273,
+                "PosZ": 1712.437277,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-6",
+                "satID": 30662,
+                "PosX": -3438.326828,
+                "PosY": -5425.773693,
+                "PosZ": 2097.963788,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-7",
+                "satID": 30764,
+                "PosX": -6429.863726,
+                "PosY": -4320.154206,
+                "PosZ": 2694.158606,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-8",
+                "satID": 30866,
+                "PosX": -11859.396245,
+                "PosY": -10831.944672,
+                "PosZ": 2828.380149,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-9",
+                "satID": 30968,
+                "PosX": -10690.718949,
+                "PosY": -13324.599554,
+                "PosZ": 1890.174421,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-10",
+                "satID": 31070,
+                "PosX": -8070.556652,
+                "PosY": -9722.858472,
+                "PosZ": 2787.623014,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-11",
+                "satID": 31172,
+                "PosX": -9045.236538,
+                "PosY": -9714.298391,
+                "PosZ": 2435.793739,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-12",
+                "satID": 31274,
+                "PosX": -14745.701752,
+                "PosY": -14659.230251,
+                "PosZ": 1480.193219,
+                "Time": 0.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -5439.480502,
+                        "PosY": -3109.157248,
+                        "PosZ": 1891.593933
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 666.676356,
+                        "PosY": -579.64816,
+                        "PosZ": 2409.283668
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1107.050656,
+                        "PosY": -1539.325715,
+                        "PosZ": 1929.554703
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -5962.697263,
+                        "PosY": -6511.982491,
+                        "PosZ": 2653.527175
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": false,
+                        "PosX": -8350.014543,
+                        "PosY": -7905.799273,
+                        "PosZ": 1712.437277
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -3438.326828,
+                        "PosY": -5425.773693,
+                        "PosZ": 2097.963788
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -6429.863726,
+                        "PosY": -4320.154206,
+                        "PosZ": 2694.158606
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -11859.396245,
+                        "PosY": -10831.944672,
+                        "PosZ": 2828.380149
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10690.718949,
+                        "PosY": -13324.599554,
+                        "PosZ": 1890.174421
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -8070.556652,
+                        "PosY": -9722.858472,
+                        "PosZ": 2787.623014
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -9045.236538,
+                        "PosY": -9714.298391,
+                        "PosZ": 2435.793739
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -14745.701752,
+                        "PosY": -14659.230251,
+                        "PosZ": 1480.193219
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-1",
+                "satID": 30152,
+                "PosX": -4112.67676,
+                "PosY": -2303.594958,
+                "PosZ": 2377.003638,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-2",
+                "satID": 30254,
+                "PosX": 1427.56408,
+                "PosY": -1151.455125,
+                "PosZ": 2578.561439,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": false,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-3",
+                "satID": 30356,
+                "PosX": -1882.107987,
+                "PosY": 367.49476,
+                "PosZ": 2083.603522,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": false,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-4",
+                "satID": 30458,
+                "PosX": -5493.525817,
+                "PosY": -6901.627443,
+                "PosZ": 2006.85378,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-5",
+                "satID": 30560,
+                "PosX": -5999.012128,
+                "PosY": -7620.35377,
+                "PosZ": 1304.880257,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-6",
+                "satID": 30662,
+                "PosX": -3228.27872,
+                "PosY": -3064.914771,
+                "PosZ": 2639.855823,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-7",
+                "satID": 30764,
+                "PosX": -4766.699291,
+                "PosY": -4999.157054,
+                "PosZ": 2746.376246,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-8",
+                "satID": 30866,
+                "PosX": -9667.687776,
+                "PosY": -6763.066428,
+                "PosZ": 2138.379884,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-9",
+                "satID": 30968,
+                "PosX": -9358.625135,
+                "PosY": -10038.468261,
+                "PosZ": 2598.953884,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-10",
+                "satID": 31070,
+                "PosX": -8821.554255,
+                "PosY": -7395.309147,
+                "PosZ": 2275.035775,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-11",
+                "satID": 31172,
+                "PosX": -10617.229257,
+                "PosY": -9391.761493,
+                "PosZ": 1359.304896,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-12",
+                "satID": 31274,
+                "PosX": -13924.376661,
+                "PosY": -12872.052381,
+                "PosZ": 1580.244388,
+                "Time": 10.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -4112.67676,
+                        "PosY": -2303.594958,
+                        "PosZ": 2377.003638
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 1427.56408,
+                        "PosY": -1151.455125,
+                        "PosZ": 2578.561439
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1882.107987,
+                        "PosY": 367.49476,
+                        "PosZ": 2083.603522
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -5493.525817,
+                        "PosY": -6901.627443,
+                        "PosZ": 2006.85378
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": false,
+                        "PosX": -5999.012128,
+                        "PosY": -7620.35377,
+                        "PosZ": 1304.880257
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -3228.27872,
+                        "PosY": -3064.914771,
+                        "PosZ": 2639.855823
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -4766.699291,
+                        "PosY": -4999.157054,
+                        "PosZ": 2746.376246
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9667.687776,
+                        "PosY": -6763.066428,
+                        "PosZ": 2138.379884
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -9358.625135,
+                        "PosY": -10038.468261,
+                        "PosZ": 2598.953884
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -8821.554255,
+                        "PosY": -7395.309147,
+                        "PosZ": 2275.035775
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10617.229257,
+                        "PosY": -9391.761493,
+                        "PosZ": 1359.304896
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -13924.376661,
+                        "PosY": -12872.052381,
+                        "PosZ": 1580.244388
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-1",
+                "satID": 30152,
+                "PosX": -2309.148046,
+                "PosY": -3704.581596,
+                "PosZ": 2165.036693,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-2",
+                "satID": 30254,
+                "PosX": 126.343461,
+                "PosY": 1939.051963,
+                "PosZ": 2037.158463,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": false,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-3",
+                "satID": 30356,
+                "PosX": -1285.101941,
+                "PosY": 134.338864,
+                "PosZ": 2176.188466,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": true,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": false,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-4",
+                "satID": 30458,
+                "PosX": -4476.856685,
+                "PosY": -7163.748145,
+                "PosZ": 1748.383879,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-5",
+                "satID": 30560,
+                "PosX": -6619.879543,
+                "PosY": -7827.419179,
+                "PosZ": 984.798061,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-6",
+                "satID": 30662,
+                "PosX": -4175.140054,
+                "PosY": -3730.175237,
+                "PosZ": 1350.337545,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-7",
+                "satID": 30764,
+                "PosX": -5003.78111,
+                "PosY": -4718.072244,
+                "PosZ": 2194.309675,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": true,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": true,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": true,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": false,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": false,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": false,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-8",
+                "satID": 30866,
+                "PosX": -9991.923795,
+                "PosY": -11676.339489,
+                "PosZ": 2228.156363,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-9",
+                "satID": 30968,
+                "PosX": -10081.450655,
+                "PosY": -10556.88823,
+                "PosZ": 1518.810437,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-10",
+                "satID": 31070,
+                "PosX": -10696.233193,
+                "PosY": -6523.670022,
+                "PosZ": 2705.533646,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": true,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": true,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": false,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-11",
+                "satID": 31172,
+                "PosX": -10271.185377,
+                "PosY": -11128.410207,
+                "PosZ": 2701.9278,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": true,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": true,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            },
+            {
+                "satName": "GPS BIIF-12",
+                "satID": 31274,
+                "PosX": -15116.475411,
+                "PosY": -13516.693049,
+                "PosZ": 2801.244772,
+                "Time": 20.0,
+                "visibilityGraph": [
+                    {
+                        "satName": "GPS BIIF-1",
+                        "satID": 30152,
+                        "LoS": false,
+                        "PosX": -2309.148046,
+                        "PosY": -3704.581596,
+                        "PosZ": 2165.036693
+                    },
+                    {
+                        "satName": "GPS BIIF-2",
+                        "satID": 30254,
+                        "LoS": false,
+                        "PosX": 126.343461,
+                        "PosY": 1939.051963,
+                        "PosZ": 2037.158463
+                    },
+                    {
+                        "satName": "GPS BIIF-3",
+                        "satID": 30356,
+                        "LoS": false,
+                        "PosX": -1285.101941,
+                        "PosY": 134.338864,
+                        "PosZ": 2176.188466
+                    },
+                    {
+                        "satName": "GPS BIIF-4",
+                        "satID": 30458,
+                        "LoS": false,
+                        "PosX": -4476.856685,
+                        "PosY": -7163.748145,
+                        "PosZ": 1748.383879
+                    },
+                    {
+                        "satName": "GPS BIIF-5",
+                        "satID": 30560,
+                        "LoS": false,
+                        "PosX": -6619.879543,
+                        "PosY": -7827.419179,
+                        "PosZ": 984.798061
+                    },
+                    {
+                        "satName": "GPS BIIF-6",
+                        "satID": 30662,
+                        "LoS": false,
+                        "PosX": -4175.140054,
+                        "PosY": -3730.175237,
+                        "PosZ": 1350.337545
+                    },
+                    {
+                        "satName": "GPS BIIF-7",
+                        "satID": 30764,
+                        "LoS": false,
+                        "PosX": -5003.78111,
+                        "PosY": -4718.072244,
+                        "PosZ": 2194.309675
+                    },
+                    {
+                        "satName": "GPS BIIF-8",
+                        "satID": 30866,
+                        "LoS": true,
+                        "PosX": -9991.923795,
+                        "PosY": -11676.339489,
+                        "PosZ": 2228.156363
+                    },
+                    {
+                        "satName": "GPS BIIF-9",
+                        "satID": 30968,
+                        "LoS": true,
+                        "PosX": -10081.450655,
+                        "PosY": -10556.88823,
+                        "PosZ": 1518.810437
+                    },
+                    {
+                        "satName": "GPS BIIF-10",
+                        "satID": 31070,
+                        "LoS": false,
+                        "PosX": -10696.233193,
+                        "PosY": -6523.670022,
+                        "PosZ": 2705.533646
+                    },
+                    {
+                        "satName": "GPS BIIF-11",
+                        "satID": 31172,
+                        "LoS": true,
+                        "PosX": -10271.185377,
+                        "PosY": -11128.410207,
+                        "PosZ": 2701.9278
+                    },
+                    {
+                        "satName": "GPS BIIF-12",
+                        "satID": 31274,
+                        "LoS": true,
+                        "PosX": -15116.475411,
+                        "PosY": -13516.693049,
+                        "PosZ": 2801.244772
+                    }
+                ]
+            }
+        ]
+    }
+}
